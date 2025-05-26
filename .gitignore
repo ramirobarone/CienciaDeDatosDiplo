@@ -173,5 +173,10 @@ cython_debug/
 # PyPI configuration file
 .pypirc
 
+<<<<<<< HEAD
 # sqlite3 database
 *.db
+=======
+# Database files
+*.db
+>>>>>>> branch-matias-1
